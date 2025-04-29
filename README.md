@@ -17,4 +17,4 @@
     3.	In load_data.py werden die Daten in absteigende Reihenfolge gebracht 
     4.	In power_curve werden die Leistungsdaten über die Zeit in Sekunden visualisiert/geplottet und als Image gespeichert
         Der erstellte Plot ist hier sichtbar:  
-        [Leistung über Zeit](https://github.com/mak2494/Programmieruebung-2.1/raw/main/figures/Power_Curve.png)
+        ! [Leistung über Zeit] (https://github.com/mak2494/Programmieruebung-2.1/raw/main/figures/Power_Curve.png)
